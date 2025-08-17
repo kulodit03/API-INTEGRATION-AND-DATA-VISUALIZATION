@@ -1,9 +1,9 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
 
-#Introduction
+Introduction
 This project focuses on the integration and automation of data extraction from the Marvel API using Docker, InfluxDB, and Grafana. The primary goal is to create a real-time data visualization system, leveraging the flexibility and capabilities of these tools.
 
-#Table of Contents
+Table of Contents
 Introduction
 1 Background
 2 Objectives
@@ -12,7 +12,7 @@ Introduction
 5 Conclusions
 6 References
 
-##Background
+Background
 To achieve this project, our group utilized the following tools:
 
 APIs: For flexible and integrative data extraction.
